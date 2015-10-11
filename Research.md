@@ -4,7 +4,7 @@ title: Research
 ---
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://cloud.githubusercontent.com/assets/8633630/10418372/6035469c-700d-11e5-9309-d875f49efc7c.png" width="595" />
 **Flight Loss in Galapagos Coleoptera**
-  
+<img style="float: left; margin: 0px 5px 5px 0px;" src="https://cloud.githubusercontent.com/assets/8633630/10418634/9b189734-7015-11e5-93c0-dffd804bb713.jpg" width="145" />
   
   
   
