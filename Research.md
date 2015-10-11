@@ -7,7 +7,9 @@ title: Research
 
 **Flight Loss in Galapagos Coleoptera**
 
-The attainment of flight by insects has allowed them to diversify to an extent not seen in any other metazoan taxa. Alternatively, the relegation of flight to flightless dispersal ability has also led to a rise in species diversity in flightless insect lineages, presumably due to increased allopatric speciation events. Flight loss may be a factor driving species diversity across all insects, but there is a translational gap between described patterns of environmental and physiological factors associated with flight loss and the selective pressures that maintain or release flight apparatus phenotype. The few genera of insects that have repeated instances of gradual reductions in flight ability and flight loss along altitudinal gradients, like the Calosoma and Attaenius beetles of the Galapagos, are prime targets to investigate the generation and maintenance of flight loss. 
+
+
+The attainment of flight by insects has allowed them to diversify to an extent not seen in any other metazoan taxa. Alternatively, the relegation of flight to flightless dispersal ability has also led to a rise in species diversity in flightless insect lineages, presumably due to increased allopatric speciation events. Flight loss may be a factor driving species diversity across all insects, but there is a translational gap between described patterns of environmental and physiological factors associated with flight loss and the selective pressures that maintain or release flight apparatus phenotype.
 
 
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://cloud.githubusercontent.com/assets/8633630/10418458/9616c33c-7010-11e5-9b73-984e15d0573d.png" width="150" />
