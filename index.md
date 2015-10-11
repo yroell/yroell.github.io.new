@@ -6,6 +6,6 @@ title: Home
 
 I am an [NSF Graduate Fellow](https://www.nsfgrfp.org/) working in the [Parent lab](http://webpages.uidaho.edu/parentlab/Parent_lab/Parent_lab___Home.html) at the [University of Idaho's Bioinformatics and Computational Biology Program](http://www.uidaho.edu/cogs/bcb). 
 
-My research is focused on understanding the impetus driving shifts between adaptive zones and their consequences. My current projects focus on flight loss in Galapagos Coleoptera, and life-history shifts across Pulmonate land snails.
+My research focuses on the ecolgical and evolutionary factors providing impetus for organisms to shift adaptive zones. Many of my projects address these questions by adopting a phylogenetic perspective and technical approach to understand the underpinning forces at work on the phenotype of present day species.
 
 Contact me at mason.linscott@gmail.com and fork me on [Github](https://github.com/mason-linscott)
