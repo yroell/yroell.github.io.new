@@ -8,4 +8,4 @@ I am an [NSF Graduate Fellow](https://www.nsfgrfp.org/) working in the [Parent l
 
 My research focuses on the ecolgical and evolutionary factors providing impetus for organisms to shift adaptive zones. Many of my projects address these questions by adopting a phylogenetic perspective and technical approach to understand the underpinning forces at work on phenotypes of present day species.
 
-Contact me at mason.linscott@gmail.com and fork me on [Github](https://github.com/mason-linscott)
+Contact me at mason.linscott(at)gmail.com and fork me on [Github](https://github.com/mason-linscott)
